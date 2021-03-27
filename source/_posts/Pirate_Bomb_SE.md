@@ -6,7 +6,7 @@ tags: 游戏
 ---
 ### 游戏下载
 
-下载地址：https://github.com/yiyaowen/PirateBomb_SE
+下载地址：https://github.com/yiyaowen/Pirate_Bomb_SE/releases
 
 ### 游戏简介
 
